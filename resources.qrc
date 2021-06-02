@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>cards/burokrat.png</file>
+        <file>cards/businessman.png</file>
+        <file>cards/diktor.png</file>
+        <file>cards/dissident.png</file>
+        <file>cards/killer.png</file>
+        <file>cards/news.png</file>
+        <file>cards/shirt.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>img/coins.png</file>
+        <file>img/empty25.png</file>
+        <file>img/empty50.png</file>
+        <file>img/restructuring.jpg</file>
+    </qresource>
+</RCC>
